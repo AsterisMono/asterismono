@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm AsterisMono
+I'm AsterisMono, and I build fun stuff🤣
 
-Passionate / Dynamic / Humble / Dedicated
+**Passionate / Dynamic / Humble / Dedicated**
 
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -13,22 +13,10 @@ Passionate / Dynamic / Humble / Dedicated
 
 - 🌱 Wannabe fullstack engineer
 - 😄 He/Him
-- ⚡ I write fun stuff, mainly helper scripts and weird automations
+- ⚡ I write helper scripts and weird automations
 - 🗣️ ZH/EN accepted
 - 🔒 3B1A 62B3 78C6 81D7 D0F8 7272 DE5F C836 090F FC49
 - 📫 Reach me at cmiki@amono.me
 
-<!--
-**AsterisMono/asterismono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
