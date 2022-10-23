@@ -18,6 +18,10 @@ I'm AsterisMono, and I build fun stuff🤣
 - 🔒 3B1A 62B3 78C6 81D7 D0F8 7272 DE5F C836 090F FC49
 - 📫 Reach me at cmiki@amono.me
 
+------
+
+### This week in development 🚀
+
 <!--START_SECTION:waka-->
 
 ```text
