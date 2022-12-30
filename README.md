@@ -29,7 +29,8 @@ I'm AsterisMono, and I build fun stuff🤣
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   2 hrs 6 mins    ███████████████████████░░   92.61 %
+Other        8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
 ```
 
 <!--END_SECTION:waka-->
