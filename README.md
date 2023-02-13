@@ -29,7 +29,7 @@ I'm AsterisMono, and I build fun stuff🤣
 <!--START_SECTION:waka-->
 
 ```text
-Text   8 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
