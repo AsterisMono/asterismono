@@ -2,7 +2,7 @@
 
 I'm AsterisMono, and I build fun stuff🤣
 
-**Passionate / Dynamic / Humble / Dedicated**
+**Perfection.**
 
 ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
