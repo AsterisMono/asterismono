@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm AsterisMono, and I build fun stuff🤣
+I'm AsterisMono, and I create things for a profound purpose that I don't yet fully comprehend.
 
 **Perfection.**
 
@@ -15,7 +15,7 @@ I'm AsterisMono, and I build fun stuff🤣
 
 - 🌱 Wannabe fullstack engineer
 - 😄 He/Him
-- ⚡ I write helper scripts and weird automations
+- ⚡ Most of the time I code helper scripts and weird inventions
 - 🗣️ ZH/EN accepted
 - 🔒 3B1A 62B3 78C6 81D7 D0F8 7272 DE5F C836 090F FC49
 - ❄️ [Flake](https://github.com/AsterisMono/flake)
