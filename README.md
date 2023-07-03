@@ -14,7 +14,7 @@ I'm AsterisMono, and I create things for a profound purpose that I don't yet ful
 ![](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)
 
 - 🌱 Wannabe fullstack engineer
-- 😄 He/Him
+- 😄 They/Them, INFP-T
 - ⚡ Most of the time I code helper scripts and weird inventions
 - 🗣️ ZH/EN accepted
 - 🔒 3B1A 62B3 78C6 81D7 D0F8 7272 DE5F C836 090F FC49
