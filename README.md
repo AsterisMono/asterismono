@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm AsterisMono, and I create things for a profound purpose that I don't yet fully comprehend.
+I'm AsterisMono, and I create things for a profound *purpose* that I don't yet fully comprehend.
 
 **Perfection.**
 
