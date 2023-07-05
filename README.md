@@ -29,11 +29,11 @@ I'm AsterisMono, and I create things for a profound *purpose* that I don't yet f
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 20 mins   █████████░░░░░░░░░░░░░░░░   35.53 %
-Nix          2 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
-JavaScript   1 hr 23 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
-Text         1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Lua          45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Nix          5 hrs 46 mins   █████████▒░░░░░░░░░░░░░░░   37.41 %
+Python       3 hrs 56 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.47 %
+JavaScript   1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+Other        1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+Text         1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
 ```
 
 <!--END_SECTION:waka-->
