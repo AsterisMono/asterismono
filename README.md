@@ -2,7 +2,9 @@
 
 I'm AsterisMono, and I create things for a profound *purpose* that I don't yet fully comprehend.
 
-**Perfection.**
+*[Twilight](https://www.youtube.com/watch?v=VU0J-dfiDsQ), I'm here under the sky*
+
+*staring at a smiling moon so bright*
 
 ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
