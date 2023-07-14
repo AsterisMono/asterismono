@@ -31,9 +31,7 @@ I'm AsterisMono, and I create things for a profound *purpose* that I don't yet f
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         3 mins          ████████████▒░░░░░░░░░░░░   49.58 %
-Svelte       2 mins          █████████▓░░░░░░░░░░░░░░░   38.10 %
-TypeScript   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+JSON   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
