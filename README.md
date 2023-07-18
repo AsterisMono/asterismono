@@ -31,7 +31,11 @@ I'm AsterisMono, and I create things for a profound *purpose* that I don't yet f
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   3 mins          █████████████████████████   100.00 %
+CSS          27 mins         ████████████░░░░░░░░░░░░░   47.82 %
+JavaScript   17 mins         ███████▓░░░░░░░░░░░░░░░░░   31.18 %
+HTML         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
+JSON         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
