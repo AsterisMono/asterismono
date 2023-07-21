@@ -31,11 +31,11 @@ I'm AsterisMono, and I create things for a profound *purpose* that I don't yet f
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          27 mins         ████████████░░░░░░░░░░░░░   47.82 %
-JavaScript   17 mins         ███████▓░░░░░░░░░░░░░░░░░   31.18 %
-HTML         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-JSON         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+CSS          27 mins         ████████████▓░░░░░░░░░░░░   50.90 %
+JavaScript   17 mins         ████████▒░░░░░░░░░░░░░░░░   33.18 %
+HTML         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
