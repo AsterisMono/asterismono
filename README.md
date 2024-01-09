@@ -32,6 +32,6 @@ I'm AsterisMono, and I create things for a profound *purpose* that I don't yet f
 
 ------
 
-### This week in development 🚀
+### Favorite Languages
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=AsterisMono&api_domain=hourglass.amono.me&theme=default&custom_title=Wakapi%20Week%20Stats&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=AsterisMono&api_domain=hourglass.amono.me&langs_count=5)
