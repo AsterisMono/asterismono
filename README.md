@@ -32,6 +32,4 @@ I'm AsterisMono, and I create things for a profound *purpose* that I don't yet f
 
 ------
 
-### Favorite Languages
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=AsterisMono&api_domain=hourglass.amono.me&langs_count=5)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j0vhrv4kxliiic30tlf394na6&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=j0vhrv4kxliiic30tlf394na6&redirect=true)
