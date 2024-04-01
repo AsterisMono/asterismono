@@ -17,7 +17,7 @@ I'm AsterisMono, and I create things for a profound *purpose* that I don't yet f
 
 - 🌱 Wannabe fullstack engineer
 - 😄 They/Them, INFP-T
-- ⚡ Most of the time I code helper scripts and weird inventions
+- ⚡ Most of the time I write helper scripts and weird inventions
 - 🗣️ ZH/EN accepted
 - 🔒 3B1A 62B3 78C6 81D7 D0F8 7272 DE5F C836 090F FC49
 - ❄️ [Flake](https://github.com/AsterisMono/flake)
