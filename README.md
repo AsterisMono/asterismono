@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Traveller / Code Composer / VRChat Permanent Resident, with a heart of glass.
+Traveller / Code composer / VRChat permanent resident, with a heart of glass.
 
 I create things for a profound *purpose* that I don't yet fully comprehend.
 
