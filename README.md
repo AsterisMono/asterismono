@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm AsterisMono, and I create things for a profound *purpose* that I don't yet fully comprehend.
+Traveller / Code Composer / VRChat Permanent Resident, with a heart of glass.
 
-*Typically I just glue things together until they work*
+I create things for a profound *purpose* that I don't yet fully comprehend.
 
 ![](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?logo=neovim&logoColor=white)
