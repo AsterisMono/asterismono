@@ -2,7 +2,7 @@
 
 Traveller / Code composer / VRChat permanent resident, with a heart of glass.
 
-I create things for a profound *purpose* that I don't yet fully comprehend.
+*Iterate. Integrate. Accelerate.*
 
 ![](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?logo=neovim&logoColor=white)
