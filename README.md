@@ -4,6 +4,7 @@ Traveller / Code composer / VRChat permanent resident, with a heart of glass.
 
 *Iterate. Integrate. Accelerate.*
 
+![](https://komarev.com/ghpvc/?username=asterismono)
 ![](https://dxrating.luoling.moe/api/genImage/cmiki)
 
 ![](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
