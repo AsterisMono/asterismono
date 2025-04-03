@@ -2,7 +2,7 @@
 
 Traveller / Code composer / VRChat permanent resident, with a heart of glass.
 
-*Iterate. Integrate. Accelerate.*
+*Over the horizon*
 
 ![](https://komarev.com/ghpvc/?username=asterismono)
 ![](https://dxrating.luoling.moe/api/genImage/cmiki)
