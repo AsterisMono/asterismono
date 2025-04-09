@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://github.com/AsterisMono?tab=repositories" >
+  <img align="right" width="50%" height="190rem" src="https://stats.amono.me/api?username=AsterisMono&theme=transparent&hide_border=true" />
+</a>
+
 Traveller / Code composer / VRChat permanent resident, with a heart of glass.
 
 *マハリコ、マハリキタ*
@@ -12,7 +16,12 @@ Traveller / Code composer / VRChat permanent resident, with a heart of glass.
 ![](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/matrix-000000?logo=Matrix&logoColor=white)
 ![](https://img.shields.io/badge/VRChat-07242b?logo=VRChat&logoColor=white)
 
-![](https://stats.amono.me/api?username=AsterisMono&theme=transparent&hide_border=true)
+---
+<a href="https://github.com/AsterisMono">
+  <img align="top" width="49%" src="./metrics-left.svg" />
+</a>
+<a href="https://github.com/AsterisMono">
+  <img align="center" width="49%" src="./metrics-right.svg" />
+</a>
