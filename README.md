@@ -22,6 +22,6 @@ Traveller / Code composer / VRChat permanent resident, with a heart of glass.
 <a href="https://github.com/AsterisMono">
   <img align="top" width="49%" src="./metrics-left.svg" />
 </a>
-<a href="https://github.com/AsterisMono">
+<a href="https://noise.amono.me">
   <img align="center" width="49%" src="./metrics-right.svg" />
 </a>
