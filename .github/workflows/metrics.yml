@@ -41,7 +41,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_rss: yes
-          plugin_rss_limit: 5
+          plugin_rss_limit: 3
           plugin_rss_source: https://noise.amono.me/rss.xml
           plugin_notable: yes
           plugin_notable_from: organization
