@@ -41,12 +41,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          plugin_rss: yes
+          plugin_rss_limit: 5
+          plugin_rss_source: https://noise.amono.me/rss.xml
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_repositories: yes
