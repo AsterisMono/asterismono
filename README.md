@@ -6,7 +6,7 @@
 
 Traveller / Code composer / VRChat permanent resident.
 
-*What if I really am someone else's? Someone far, far away...*
+*Do not mourn her. She has served her purpose.*
 
 ![](https://komarev.com/ghpvc/?username=asterismono)
 ![](https://dxrating.luoling.moe/api/genImage/cmiki)
