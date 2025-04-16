@@ -6,7 +6,7 @@
 
 Traveller / Code composer / VRChat permanent resident.
 
-*Do not mourn her. She has served her purpose.*
+*Take her hand. And set her free.*
 
 ![](https://komarev.com/ghpvc/?username=asterismono)
 ![](https://dxrating.luoling.moe/api/genImage/cmiki)
