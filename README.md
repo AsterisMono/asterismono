@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/AsterisMono?tab=repositories" >
-  <img align="right" width="50%" height="160rem" src="https://stats.amono.me/api?username=AsterisMono&theme=transparent&hide_border=true" />
+  <img align="right" width="40%" height="160rem" src="https://stats.amono.me/api?username=AsterisMono&theme=transparent&hide_border=true" />
 </a>
 
 Traveller / Code composer / VRChat permanent resident.
