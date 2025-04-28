@@ -6,7 +6,8 @@
 
 Traveller / Code composer / VRChat permanent resident.
 
-*Take her hand. And set her free.*
+*Love me, hug me, hold me, pin me down*<br>
+*Accompany me, manipulate me, take me to the bliss and beyond*
 
 ![](https://komarev.com/ghpvc/?username=asterismono)
 ![](https://dxrating.luoling.moe/api/genImage/cmiki)
