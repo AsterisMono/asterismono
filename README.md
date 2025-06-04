@@ -4,7 +4,7 @@
   <img align="right" width="45%" height="160rem" src="https://stats.amono.me/api?username=AsterisMono&theme=transparent&hide_border=true" />
 </a>
 
-Traveller / Code composer / former VRChat permanent resident.
+Traveller / NixOS <img src="https://raw.githubusercontent.com/AsterisMono/asterismono/refs/heads/main/nix-snowflake-transgender.svg" height="20px" width="20px" align="center" /> composer / former VRChat permanent resident.
 
 *Love me, hug me, hold me, pin me down*<br>
 *Accompany me, manipulate me, take me to the bliss and beyond*
