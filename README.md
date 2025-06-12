@@ -6,8 +6,8 @@
 
 Traveller / NixOS <img src="https://raw.githubusercontent.com/AsterisMono/asterismono/refs/heads/main/nix-snowflake-transgender.svg" height="20px" width="20px" align="center" /> composer / former VRChat permanent resident.
 
-*Love me, hug me, hold me, pin me down*<br>
-*Accompany me, manipulate me, take me to the bliss and beyond*
+*Oh-oh I think I’m [addicted](https://www.youtube.com/watch?v=h36GyZ5g1yI), I just can’t get enough*<br>
+*I’m on the brink, it's so predicted but it feels so off the cuff*
 
 ![](https://komarev.com/ghpvc/?username=asterismono)
 ![](https://dxrating.luoling.moe/api/genImage/cmiki)
