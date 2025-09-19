@@ -4,7 +4,7 @@
   <img align="right" width="45%" height="160rem" src="https://stats.amono.me/api?username=AsterisMono&theme=transparent&hide_border=true" />
 </a>
 
-Gardener / (Something Nix) composer. Tending flowers in the wires.
+Gardener, (Something Nix) composer. Tending flowers in the wires.
 
 *Oh-oh I think I’m [addicted](https://www.youtube.com/watch?v=h36GyZ5g1yI), I just can’t get enough*<br>
 *I’m on the brink it's so predicted but it feels so off the cuff*
