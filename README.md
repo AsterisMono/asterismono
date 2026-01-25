@@ -16,7 +16,7 @@ Gardener, (Something Nix) composer. Tending flowers in the wires.
 ![](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/VRChat-07242b?logo=VRChat&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 ---
 <a href="https://github.com/AsterisMono">
