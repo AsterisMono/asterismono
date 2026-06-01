@@ -17,12 +17,12 @@ i've shipped architecture for 800k+ users, and am currently working on building 
 #### other works
 
 - [astro-llm-translator](https://github.com/AsterisMono/astro-llm-translator) - making LLMs translate my docs so i don't have to
-- [hyacinth](https://github.com/AsterisMono/hyacinth) - remote-control tablet kiosk system for a stupid tote-bag. vibe-coded, take care
+- [hyacinth](https://github.com/AsterisMono/hyacinth) - remote-control tablet kiosk system for a stupid tote-bag. *vibe-coded, take care*
 - [herbarium](https://herbarium.requiem.garden/) - my knowledge base / blog / digital garden / whatever you want to call it
 
 #### stuff i do
 
-- immutable os on everything. i name my servers after plants. i (once) have a systemd timer that reminds me to take my meds.
+- immutable os on everything. i name my servers after plants. i made a systemd timer that reminds me to take my meds.
 - [gave talks](https://www.youtube.com/watch?v=WLRRJjACyBs) at nix meetups in china about convincing companies to use nix (mixed results). also i contribute to hosting the event since #2
 - vrchat photography and avatar work
 - generally, tending flowers in the wires
