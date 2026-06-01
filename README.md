@@ -11,7 +11,7 @@ i've shipped architecture for 800k+ users, and am currently working on building 
 #### featured stuff i made
 
 - [flake](https://github.com/AsterisMono/flake) - my NixOS configs (which propelled me into the immutable everything field, thank you)
-- [mimosa](https://github.com/AsterisMono/mimosa) - kubernetes cluster with [Talos Linux](https://www.siderolabs.com/talos-linux) & terraform. dead for now because i can't pay the bills since [the great Hetzner price change](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/)
+- [mimosa](https://github.com/AsterisMono/mimosa) - kubernetes cluster with [Talos Linux](https://www.siderolabs.com/talos-linux) & Terraform. dead for now because i can't pay the bills since [the great Hetzner price change](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/)
 - [reverie](https://github.com/AsterisMono/reverie) - my quiet workstation setup. built on [Universal Blue](https://blue-build.org/) to make my system reproducible and easy to move between devices
 
 #### other works
