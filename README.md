@@ -10,12 +10,14 @@ i've shipped architecture for 800k+ users, and am currently working on building 
 
 #### featured stuff i made
 
-- [flake](https://github.com/AsterisMono/flake) - my NixOS configs (which propelled me into the immutable everything field, thank you)
+- [flake](https://github.com/AsterisMono/flake) - my NixOS config (which propelled me into the immutable everything field, thank you)
 - [mimosa](https://github.com/AsterisMono/mimosa) - kubernetes cluster with [Talos Linux](https://www.siderolabs.com/talos-linux) & Terraform. dead for now because i can't pay the bills since [the great Hetzner price change](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/)
+- [aster](https://github.com/AsterisMono/aster) - my personal fork of chromium with first-class vertical tabs support, a curated set of extensions and flags, and a decluttered interface.
 - [reverie](https://github.com/AsterisMono/reverie) - my quiet workstation setup. built on [Universal Blue](https://blue-build.org/) to make my system reproducible and easy to move between devices
 
 #### other works
 
+- [sidebery-chromium](https://github.com/AsterisMono/Sidebery) - the beloved vertical tabs extension [sidebery](https://github.com/mbnuqw/sidebery) ported to chromium browsers.
 - [astro-llm-translator](https://github.com/AsterisMono/astro-llm-translator) - making LLMs translate my docs so i don't have to
 - [hyacinth](https://github.com/AsterisMono/hyacinth) - remote-control tablet kiosk system for a stupid tote-bag. *vibe-coded, take care*
 - [herbarium](https://herbarium.requiem.garden/) - my knowledge base / blog / digital garden / whatever you want to call it
