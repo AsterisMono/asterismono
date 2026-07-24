@@ -1,12 +1,9 @@
-```
-~/Projects/noa on main [sleep deprived (1M context)] ctx:3%/1000k 5h:4% 7d:27%
-  ⏵⏵ bypass permissions on (shift+tab to cycle)
-```
+> Immutable foundations. For the post-modern age.
 
 i'm noa. full-spectrum infrastructure person who thinks systems should be warm environments for people, not cold monuments to engineering.
 
 i like nix, kubernetes, and mass-producing immutable declarative infrastructure like everything will go down and needs to be rebuilt.
-i've shipped architecture for 800k+ users, and am currently working on building / integrating immutable operating systems.
+i've shipped architecture for 800k+ users, and am currently working on building / integrating immutable operating systems and blockchain infrastructure.
 
 #### featured stuff i made
 
@@ -19,8 +16,8 @@ i've shipped architecture for 800k+ users, and am currently working on building 
 
 - [sidebery-chromium](https://github.com/AsterisMono/Sidebery) - the beloved vertical tabs extension [sidebery](https://github.com/mbnuqw/sidebery) ported to chromium browsers.
 - [astro-llm-translator](https://github.com/AsterisMono/astro-llm-translator) - making LLMs translate my docs so i don't have to
-- [hyacinth](https://github.com/AsterisMono/hyacinth) - remote-control tablet kiosk system for a stupid tote-bag. *vibe-coded, take care*
-- [herbarium](https://herbarium.requiem.garden/) - my knowledge base / blog / digital garden / whatever you want to call it
+- [rimlight-protocol](https://github.com/AsterisMono/solana-workspace/tree/main/rimlight_protocol) - a set of smart contracts for recording my important life decisions. *content warning.*
+- [herbarium](https://herbarium.requiem.garden/) - my knowledge base / blog / digital garden
 
 #### stuff i do
 
