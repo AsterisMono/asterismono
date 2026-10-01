@@ -2,7 +2,7 @@
 
 i'm noa. full-spectrum developer who thinks systems should be warm environments for people, not cold monuments to engineering.
 
-i like nix, kubernetes, and mass-producing immutable declarative infrastructure as if everything will eventually go down and needs to be rebuilt. i've shipped infrastructure serving 800k+ users, and am currently working on agentic tools, developer experience with nix, and formal verification of llm-generated code.
+i love sharpening my tools to a fine edge, and mass-producing immutable declarative infrastructure as if everything will eventually go down and needs to be rebuilt. i've shipped infrastructure serving 800k+ users, and am currently working on agentic tools, developer experience with nix, and formal verification of llm-generated code.
 
 #### featured stuff i maintain
 
