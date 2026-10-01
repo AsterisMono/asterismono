@@ -1,8 +1,8 @@
-> Trusted foundations. For the post-modern age.
+> Trusted foundations. For the postmodern age.
 
 i'm noa. full-spectrum developer who thinks systems should be warm environments for people, not cold monuments to engineering.
 
-i like nix, kubernetes, and mass-producing immutable declarative infrastructure like everything will go down and needs to be rebuilt. i've shipped architecture for 800k+ users, and am currently working on agentic tools, developer experience with nix, and formal verification of llm-generated code.
+i like nix, kubernetes, and mass-producing immutable declarative infrastructure as if everything will eventually go down and needs to be rebuilt. i've shipped infrastructure serving 800k+ users, and am currently working on agentic tools, developer experience with nix, and formal verification of llm-generated code.
 
 #### featured stuff i maintain
 
@@ -15,20 +15,20 @@ i like nix, kubernetes, and mass-producing immutable declarative infrastructure 
 
 #### previous projects (retired & archived)
 
-on experimenting the potential of maintaining a personal fork of a public software with llms: 
+on experimenting with the potential of maintaining a personal fork of public software with llms: 
 - [sidebery-chromium](https://github.com/AsterisMono/Sidebery) - the beloved vertical tabs extension [sidebery](https://github.com/mbnuqw/sidebery) ported to chromium browsers.
 - [aster](https://github.com/AsterisMono/aster) - my personal fork of chromium with first-class vertical tabs support, a curated set of extensions and flags, and a decluttered interface.
 
 on pursuing declarative ops:
 - [mimosa](https://github.com/AsterisMono/mimosa) - kubernetes cluster with [Talos Linux](https://www.siderolabs.com/talos-linux) & Terraform. *superseded by NixOS.*
 
-on tapping the water of containerized os:
+on testing the waters of container-native os:
 - [reverie](https://github.com/AsterisMono/reverie) - my quiet workstation setup. built on [Universal Blue](https://blue-build.org/) to make my system reproducible and easy to move between devices. *superseded by NixOS.*
 
 #### stuff i do
 
 - immutable os on everything. i name my servers after plants. i (once) made a systemd timer that reminds me to take my meds.
-- [gave talks](https://www.youtube.com/watch?v=WLRRJjACyBs) at nix meetups in china about convincing companies to use nix (mixed results). also i contribute to hosting the event since #2
+- [gave talks](https://www.youtube.com/watch?v=WLRRJjACyBs) at nix meetups in china about convincing companies to use nix (mixed results). also i contribute to hosting the event since meetup #2
 - vrchat photography and avatar work
 - generally, tending flowers in the wires
 
