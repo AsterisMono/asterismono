@@ -2,7 +2,7 @@
 
 i'm noa. full-spectrum developer who thinks systems should be warm environments for people, not cold monuments to engineering.
 
-i love sharpening my tools to a fine edge, and mass-producing immutable declarative infrastructure as if everything will eventually go down and needs to be rebuilt. i've shipped infrastructure serving 800k+ users, and am currently working on agentic tools, developer experience with nix, and formal verification of llm-generated code.
+i treat tooling as part of the thinking process, and tend to keep refining my environments, abstractions, and workflows until the friction mostly disappears and building things feels continuous. that instinct carries over into the systems i make: immutable, declarative, reproducible, and designed with usability in mind. i've shipped infrastructure serving 800k+ users, and am currently working on agentic tools, developer experience with nix, and formal verification of llm-generated code.
 
 #### featured stuff i maintain
 
